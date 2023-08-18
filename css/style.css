@@ -305,6 +305,7 @@ h1, h2, h3, h4, h5, h6, figure {
   float: left;
   width: 100%;
 }
+
 .fh5co-cover .overlay {
   z-index: 0;
   position: absolute;
@@ -312,14 +313,8 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 0;
   left: 0;
   right: 0;
-  background: #90cfe0;
-  background: -moz-linear-gradient(-45deg, #90cfe0  0%, rgba(0, 87, 137, 0.2) 100%);
-  background: -webkit-gradient(left top, right bottom, color-stop(0%, #90cfe0), color-stop(100%, rgba(0, 87, 137, 0.2)));
-  background: -webkit-linear-gradient(-45deg, #90cfe0 0%, rgba(0, 87, 137, 0.2) 100%);
-  background: -o-linear-gradient(-45deg, #90cfe0 0%, rgba(0, 87, 137, 0.2) 100%);
-  background: -ms-linear-gradient(-45deg, #90cfe0 0%, rgba(0, 87, 137, 0.2) 100%);
-  background: linear-gradient(135deg, #90cfe0 0%, rgba(0, 87, 137, 0.2) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#90cfe0', endColorstr='#005789', GradientType=1 );
+ 
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#17373f', endColorstr='#005789', GradientType=1 );
 }
 .fh5co-cover > .fh5co-container {
   position: relative;
