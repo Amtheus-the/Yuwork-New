@@ -345,6 +345,19 @@ figure {
 	position: relative;
 	z-index: 10;
 }
+
+.whatsapp-link {
+  position: fixed;
+  bottom: 20%;
+  right: 20px;
+  border-radius: 50%;
+  z-index: 9999;
+}
+
+.fa-whatsapp {
+  margin-top: 25%;
+}
+
 @media screen and (max-width: 768px) {
 	.fh5co-cover {
 		height: 600px;
