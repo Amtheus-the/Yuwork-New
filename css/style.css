@@ -351,15 +351,15 @@ figure {
 }
 
 .whatsapp-link {
-  position: fixed;
-  bottom: 20%;
-  right: 20px;
-  border-radius: 50%;
-  z-index: 9999;
+	position: fixed;
+	bottom: 20%;
+	right: 20px;
+	border-radius: 50%;
+	z-index: 9999;
 }
 
 .fa-whatsapp {
-  margin-top: 25%;
+	margin-top: 25%;
 }
 
 .bandeiras {
@@ -675,18 +675,18 @@ form label {
 .fh5co-bg-section {
 	position: relative;
 	background: #005a8f;
-	background: -moz-linear-gradient(45deg, #005a8f 0%, #ff61b3 100%);
+	background: -moz-linear-gradient(45deg, #556d8e 0%, #3c4558 100%);
 	background: -webkit-gradient(
 		left bottom,
 		right top,
-		color-stop(0%, #005a8f),
-		color-stop(100%, #ff61b3)
+		color-stop(0%, #556d8e),
+		color-stop(100%, #3c4558)
 	);
-	background: -webkit-linear-gradient(45deg, #005a8f 0%, #ff61b3 100%);
-	background: -o-linear-gradient(45deg, #005a8f 0%, #ff61b3 100%);
-	background: -ms-linear-gradient(45deg, #005a8f 0%, #ff61b3 100%);
-	background: linear-gradient(45deg, #005a8f 0%, #ff61b3 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#005a8f', endColorstr='#ff61b3', GradientType=1 );
+	background: -webkit-linear-gradient(45deg, #556d8e 0%, #3c4558 100%);
+	background: -o-linear-gradient(45deg, #556d8e 0%, #3c4558 100%);
+	background: -ms-linear-gradient(45deg, #556d8e 0%, #3c4558 100%);
+	background: linear-gradient(45deg, #556d8e 0%, #3c4558 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#556D8E', endColorstr='#3C4558', GradientType=1 );
 }
 .fh5co-bg-section .overlay {
 	position: absolute;
