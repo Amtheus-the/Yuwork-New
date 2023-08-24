@@ -106,6 +106,10 @@ figure {
 	background: #50cb86;
 }
 
+.icones-2{
+	margin: 12px;
+}
+
 .fh5co-nav {
 	position: absolute;
 	top: 0;
@@ -356,6 +360,10 @@ figure {
 
 .fa-whatsapp {
 	margin-top: 25%;
+}
+
+.bandeiras {
+    width: 20px;
 }
 
 @media screen and (max-width: 768px) {
@@ -1480,15 +1488,15 @@ form label {
 }
 
 .btn-primary {
-	background: #50cb86;
+	background: #518099;
 	color: #fff;
-	border: 2px solid #50cb86;
+	border: 2px solid #518099;
 }
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active {
-	background: #64d194 !important;
-	border-color: #64d194 !important;
+	background: #518099 !important;
+	border-color: #518099 !important;
 }
 .btn-primary.btn-outline {
 	background: transparent;
