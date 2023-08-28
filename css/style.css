@@ -1680,4 +1680,53 @@ form label {
 	opacity: 0;
 }
 
+.carousel {
+    margin-left: 80px; 
+    margin-right: 80px; 
+}
+
+.custom-cell {
+    width: 50%; /* Define dois cards por tela */
+    margin-right: 10px;
+    height: 360px !important;
+    overflow: hidden; /* Esconde o conteúdo que exceder a altura definida */
+}
+
+#fh5co-testimonial blockquote {
+	height: 294px;
+}
+
+.flickity-prev-next-button.previous {
+    left: -17% !important;
+}
+
+.flickity-prev-next-button.next {
+    right: -162px !important;
+}
+
+.flickity-prev-next-button {
+		top: 50%;
+		width: 162px !important;
+		height: 100px !important;
+		border-radius: 50%;
+		transform: translateY(-50%);
+        transform: translateY(-164%) !important;
+}
+.flickity-button {
+    position: absolute;
+    background: #efefef !important;
+    border: none;
+    color: #4e6280 !important;
+}
+
+.flickity-prev-next-button .flickity-button-icon {
+    position: absolute;
+    left: 20%;
+    top: 115% !important;
+    width: 60%;
+    height: 60%;
+}
+
+
+
 /*# sourceMappingURL=style.css.map */
