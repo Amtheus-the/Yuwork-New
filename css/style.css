@@ -151,7 +151,7 @@ figure {
 	display: inline;
 }
 .fh5co-nav ul li a {
-	font-size: 14px;
+	font-size: 15px;
 	padding: 30px 10px;
 	text-transform: uppercase;
 	color: rgba(255, 255, 255, 0.5);
@@ -581,7 +581,7 @@ form label {
 #fh5co-header .display-tc .btn:hover,
 #fh5co-counter .display-tc .btn:hover,
 .fh5co-cover .display-tc .btn:hover {
-	background: #34947b !important;
+	background: #337ab7 !important;
 	-webkit-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
 	-moz-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
 	box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
@@ -827,6 +827,14 @@ form label {
 	font-size: 40px;
 	line-height: 40px;
 	color: #337ab7;
+}
+.feature-center .no-bg {
+	background: unset;
+}
+
+.feature-center .no-bg img {
+	width: 9rem;
+	max-width: 10rem;
 }
 .feature-center p,
 .feature-center h3 {
