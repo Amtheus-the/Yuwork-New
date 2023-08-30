@@ -7,6 +7,33 @@
 .align-center {
 	align-items: center;
 }
+
+/* INDEX */
+.icon {
+	content: '';
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	background-size: cover;
+	background-position: center;
+}
+
+.icon-platform {
+	background-image: url('/images/icons/icon_processos.jpg');
+}
+
+.icon-ultramonitor {
+	background-image: url('/images/icons/icon_ultramonitor.jpg');
+}
+
+.icon-ultraoffice {
+	background-image: url('/images/icons/icon_ultraoffice.jpg');
+}
+
+.icon-yumock {
+	background-image: url('/images/icons/icon_yumock.jpg');
+}
+
 .aboutus-bg-section {
 	position: relative;
 	background: #005a8f;
