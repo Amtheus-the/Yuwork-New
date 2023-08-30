@@ -151,7 +151,7 @@ figure {
 	display: inline;
 }
 .fh5co-nav ul li a {
-	font-size: 15px;
+	font-size: 17px;
 	padding: 30px 10px;
 	text-transform: uppercase;
 	color: rgba(255, 255, 255, 0.5);
@@ -832,8 +832,8 @@ form label {
 }
 
 .feature-center .no-bg img {
-	width: 9rem;
-	max-width: 10rem;
+	width: 13rem;
+	max-width: 13rem;
 }
 .feature-center p,
 .feature-center h3 {
@@ -1730,13 +1730,12 @@ form label {
 	height: 60%;
 }
 
-.alinhar-btn{
+.alinhar-btn {
 	margin-bottom: 50px;
 }
 
-.img-video{
+.img-video {
 	margin-top: 13px;
 }
-
 
 /*# sourceMappingURL=style.css.map */

@@ -201,3 +201,35 @@ h4 {
 .btn-login:hover {
 	background: #337ab7 !important;
 }
+@media screen and (max-width: 1199px) {
+	.feature-center .mb-max-reso {
+		margin-bottom: 0.625rem;
+	}
+	.feature-center .mb-reso {
+		margin-bottom: 11rem;
+	}
+	.feature-center .mb-p-reso {
+		margin-bottom: 5.7rem;
+	}
+}
+@media screen and (max-width: 991px) {
+	.feature-center .mb-reso {
+		margin-bottom: 13.9rem;
+	}
+	.feature-center .mb-h3-reso {
+		margin-bottom: 1.2rem;
+	}
+}
+@media screen and (max-width: 767px) {
+	.feature-center .mb-reso {
+		margin-bottom: 1.8rem;
+	}
+}
+@media screen and (min-width: 1200px) {
+	.feature-center .mb-reso {
+		margin-bottom: 8.1rem;
+	}
+	.feature-center .mb-p-reso {
+		margin-bottom: 6rem;
+	}
+}
