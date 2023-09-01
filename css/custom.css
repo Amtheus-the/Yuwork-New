@@ -19,19 +19,19 @@
 }
 
 .icon-platform {
-	background-image: url('images/icons/icon_processos.jpg');
+	background-image: url('../images/icons/icon_processos.jpg');
 }
 
 .icon-ultramonitor {
-	background-image: url('images/icons/icon_ultramonitor.jpg');
+	background-image: url('../images/icons/icon_ultramonitor.jpg');
 }
 
 .icon-ultraoffice {
-	background-image: url('images/icons/icon_ultraoffice.jpg');
+	background-image: url('../images/icons/icon_ultraoffice.jpg');
 }
 
 .icon-yumock {
-	background-image: url('images/icons/icon_yumock.jpg');
+	background-image: url('../images/icons/icon_yumock.jpg');
 }
 
 .aboutus-bg-section {
