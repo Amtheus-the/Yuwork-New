@@ -228,6 +228,9 @@ h4 {
 .btn-login:hover {
 	background: #337ab7 !important;
 }
+.mirrored-image {
+	transform: scaleX(-1);
+}
 @media screen and (max-width: 1199px) {
 	.feature-center .mb-max-reso {
 		margin-bottom: 0.625rem;

@@ -1092,7 +1092,9 @@ form label {
 	color: #52565b;
 }
 #fh5co-testimonial blockquote {
+	height: 294px;
 	border-left: none;
+	overflow: auto;
 	padding: 30px;
 	background: #fff;
 	-webkit-box-shadow: 1px 2px 2px 0px rgba(0, 0, 0, 0.1);
@@ -1231,8 +1233,6 @@ form label {
 #fh5co-footer .copyright .block {
 	display: block;
 }
-
-
 
 #fh5co-offcanvas {
 	position: absolute;
@@ -1697,10 +1697,6 @@ form label {
 	overflow: hidden; /* Esconde o conteúdo que exceder a altura definida */
 }
 
-#fh5co-testimonial blockquote {
-	height: 294px;
-}
-
 .flickity-prev-next-button.previous {
 	left: -17% !important;
 }
@@ -1719,7 +1715,7 @@ form label {
 }
 .flickity-button {
 	position: absolute;
-	background: #efefef !important;
+	background: #efefef00 !important;
 	border: none;
 	color: #4e6280 !important;
 }
@@ -1743,8 +1739,5 @@ form label {
 .row + .row {
 	margin-top: 0px !important;
 }
-
-
-
 
 /*# sourceMappingURL=style.css.map */
