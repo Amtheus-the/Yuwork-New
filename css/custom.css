@@ -34,7 +34,8 @@
 	background-image: url('../images/icons/icon_yumock.jpg');
 }
 
-.aboutus-bg-section {
+.aboutus-bg-section,
+.contactus-bg-section {
 	position: relative;
 	background: #005a8f;
 	background: -moz-linear-gradient(45deg, #73a8b9 0%, #6d8f93 100%);
@@ -49,6 +50,7 @@
 	background: -ms-linear-gradient(45deg, #73a8b9 0%, #6d8f93 100%);
 	background: linear-gradient(45deg, #73a8b9 0%, #6d8f93 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#73A8B9', endColorstr='#6D8F93', GradientType=1 );
+	background-position: center !important;
 }
 
 #missao {
@@ -134,7 +136,7 @@ h4 {
 .top-right {
 	position: absolute;
 	top: 25px;
-	left: 85%;
+	left: 95%;
 	width: 76%;
 	cursor: auto;
 }
@@ -214,7 +216,7 @@ h4 {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background: #51809975;
+	background: #518099ad;
 	-webkit-transition: 0.5s;
 	-o-transition: 0.5s;
 	transition: 0.5s;
